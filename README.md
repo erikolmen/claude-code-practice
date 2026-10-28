@@ -20,3 +20,7 @@ This section was added on a feature branch, as part of the Pull Request Workflow
 
   + Practice the Version Control Workflow again
   + Try the Pull Request Workflow with a partner
+
+## Resources
+
+  + [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
