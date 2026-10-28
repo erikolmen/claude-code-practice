@@ -11,3 +11,7 @@ Here is a list:
 For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
 
 This repo was updated using Claude Code.
+
+## About
+
+This section was added on a feature branch, as part of the Pull Request Workflow.
