@@ -15,3 +15,8 @@ This repo was updated using Claude Code.
 ## About
 
 This section was added on a feature branch, as part of the Pull Request Workflow.
+
+## Next Steps
+
+  + Practice the Version Control Workflow again
+  + Try the Pull Request Workflow with a partner
